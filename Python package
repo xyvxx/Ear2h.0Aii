@@ -1,9 +1,0 @@
-from openai import OpenAI
-
-client = OpenAI(
-  organization=`org-muKxCmi6ZPUx0bxiqEUeGXK`
-  project=`$Ear2h.0Aii_ID",
-)
-
-
-
